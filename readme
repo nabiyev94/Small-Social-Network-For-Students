@@ -1,0 +1,10 @@
+It's about a small social network of students.
+
+With Java, the data was generated with for loops and automatically filled.
+
+
+ADD, DELETE, UPDATE, SEARCH(CRUD) operations were implemented with the help of PHP.
+
+DELETE is implemented with stored procedure in sql.
+
+AND for some tables sit TRIGGER used to simplify PRIMARY KEY creation.
