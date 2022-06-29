@@ -1,0 +1,13 @@
+Die Webanwendung kann auf Almighty deployed werden.
+
+
+Es geht um eine kleine soziale Netzwerk von Studenten.
+
+Mit Java wurden die Daten mit for Schleifen  generiert und automatisch befuellt.
+
+
+Mit Hilfe von PHP wurden ADD, DELETE, UPDATE, SEARCH(CRUD) Operationen implementiert.
+
+DELETE ist mit stored procedure in sql implementiert.
+
+UND fuer manche Tabelle sit TRIGGER verwendet, die PRIMARY KEY Erstellung zu vereinfachern.
