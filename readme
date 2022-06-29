@@ -7,4 +7,4 @@ ADD, DELETE, UPDATE, SEARCH(CRUD) operations were implemented with the help of P
 
 DELETE is implemented with stored procedure in sql.
 
-AND for some tables sit TRIGGER used to simplify PRIMARY KEY creation.
+AND for some tables  TRIGGER has been used to simplify PRIMARY KEY creation.
